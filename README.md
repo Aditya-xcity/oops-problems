@@ -65,7 +65,7 @@ Each folder contains:
 
 ## 🛠 Language Used
 
-(Add your language here, e.g., C++ / Java / Python)
+CPP
 
 ---
 
